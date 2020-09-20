@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name": "Punith N",
+    "occupation": "FrontEnd and MERN Stack Developer ",
+    "description": "Blockchain Developer|| Writing and Fighting Enthusiast || Aspiring Entrepreneur",
+    "image": "Punith.jpeg",
+    "bio": "My name is Punith , I'm an Engineer passed out from Manipal Institute of Technology . ",
+    "contactmessage": "Get in touch with me.",
+    "email": "punithnandiraj@gmail.com",
+    "phone": "+91 9845805411",
+    "address": {
+      "street": "122 , HariGuru , Jp Nagar 8th Phase",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560076"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/11DpXsPu3RrQZvAztqmfEijRPtb1lWTO7/view?usp=sharing",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/punithnandiraj/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mon_kingu_ey/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/PunithNandiraj1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Manipal Institute of Technology",
+        "degree": "BTech in Instrumentation and Control Engineering",
+        "graduated": "August 2019",
+        "description": "Minor Specialisation in Digital Marketing"
+      }
+    ],
+    "work": [
+      {
+        "company": "FreeLancer",
+        "title": "Blockchain Developer and Technical Content Writer",
+        "years": "October 2019 - Present",
+        "description": "I was responsible for researching about various cryptocurrencies and their differences. I also created few websites using Elementor and Google Cloud."
+      },
+      {
+        "company": "UST Global",
+        "title": "Internship Trainee",
+        "years": "Feb 2019 - Aug 2019",
+        "description": "Created dynamic web sites and web applications like a Energy trading platform using MERN Stack."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Node Js",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "BlockChain",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SpeedChain Project",
+        "category": "Full Stack Blockchain Project.",
+        "image": "speedchain.jpg",
+        "url": "https://drive.google.com/file/d/1dLXK3-cfqz-s3ejdXbM3FbGrVHBPAQll/view?usp=sharing"
+      },
+      {
+        "title": "Security Token Platform Analysis",
+        "category": "Research",
+        "image": "token.jpg",
+        "url": "https://drive.google.com/file/d/1KTS6nSQrw5y6foysOVH5qTEfEvx7_zF8/view?usp=sharing"
+      },
+      {
+        "title": "Blockchain Specialisation",
+        "category": "Certification",
+        "image": "blockchain.jpg",
+        "url": "https://coursera.org/share/f07c2c9c32fd2b6d3ebeed0e0f93c0f6"
+      },
+      {
+        "title": "Programming Foundations with Javascript , HTML , CSS ",
+        "category": "Certification",
+        "image": "coding.jpg",
+        "url": "https://coursera.org/share/8d884997a735c6eb4dd9d21a300422db"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Money comes and goes, but if you have the education about how money works, you gain power over it and can begin building wealth.",
+        "user": "Robert T Kiyosaki"
+      },
+      {
+        "text": "Take up one idea. Make that one idea your life–think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+        "user": "Swami Vivekananda"
+      }
+    ]
+  }
+}
